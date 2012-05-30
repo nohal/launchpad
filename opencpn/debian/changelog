@@ -1,3 +1,33 @@
+opencpn (2.6.1729-0~quantal1) quantal; urgency=low
+
+  * New upstream release a.k.a. 3.0RC3
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
+opencpn (2.6.1729-0~precise1) precise; urgency=low
+
+  * New upstream release a.k.a. 3.0RC3
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
+opencpn (2.6.1729-0~oneiric1) oneiric; urgency=low
+
+  * New upstream release a.k.a. 3.0RC3
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
+opencpn (2.6.1729-0~natty1) natty; urgency=low
+
+  * New upstream release a.k.a. 3.0RC3
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
+opencpn (2.6.1729-0~maverick1) maverick; urgency=low
+
+  * New upstream release a.k.a. 3.0RC3
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
+opencpn (2.6.1729-0~lucid1) lucid; urgency=low
+
+  * New upstream release a.k.a. 3.0RC3
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
 opencpn (2.6.1723-0~quantal1) quantal; urgency=low
 
   * New upstream release - a.k.a. 3.0RC2
