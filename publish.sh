@@ -2,7 +2,7 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=2.6.1729
+VERSION=3.0.0
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
