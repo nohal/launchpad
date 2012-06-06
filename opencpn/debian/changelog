@@ -1,160 +1,30 @@
 opencpn (3.0.0-0~quantal1) quantal; urgency=low
 
-  * New upstream release 3.0.0
+  * OpenCPN 3.0.0 release
 
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 04 Jun 2012 20:46:42 +0200
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Jun 2012 08:50:25 +0200
 opencpn (3.0.0-0~precise1) precise; urgency=low
 
-  * New upstream release 3.0.0
+  * OpenCPN 3.0.0 release
 
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 04 Jun 2012 20:46:42 +0200
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Jun 2012 08:50:25 +0200
 opencpn (3.0.0-0~oneiric1) oneiric; urgency=low
 
-  * New upstream release 3.0.0
+  * OpenCPN 3.0.0 release
 
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 04 Jun 2012 20:46:42 +0200
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Jun 2012 08:50:25 +0200
 opencpn (3.0.0-0~natty1) natty; urgency=low
 
-  * New upstream release 3.0.0
+  * OpenCPN 3.0.0 release
 
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 04 Jun 2012 20:46:42 +0200
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Jun 2012 08:50:25 +0200
 opencpn (3.0.0-0~maverick1) maverick; urgency=low
 
-  * New upstream release 3.0.0
+  * OpenCPN 3.0.0 release
 
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 04 Jun 2012 20:46:42 +0200
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Jun 2012 08:50:25 +0200
 opencpn (3.0.0-0~lucid1) lucid; urgency=low
 
-  * New upstream release 3.0.0
+  * OpenCPN 3.0.0 release
 
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 04 Jun 2012 20:46:42 +0200
-opencpn (2.6.1729-0~quantal1) quantal; urgency=low
-
-  * New upstream release a.k.a. 3.0RC3
-
- -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
-opencpn (2.6.1729-0~precise1) precise; urgency=low
-
-  * New upstream release a.k.a. 3.0RC3
-
- -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
-opencpn (2.6.1729-0~oneiric1) oneiric; urgency=low
-
-  * New upstream release a.k.a. 3.0RC3
-
- -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
-opencpn (2.6.1729-0~natty1) natty; urgency=low
-
-  * New upstream release a.k.a. 3.0RC3
-
- -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
-opencpn (2.6.1729-0~maverick1) maverick; urgency=low
-
-  * New upstream release a.k.a. 3.0RC3
-
- -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
-opencpn (2.6.1729-0~lucid1) lucid; urgency=low
-
-  * New upstream release a.k.a. 3.0RC3
-
- -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 May 2012 08:44:41 +0200
-opencpn (2.6.1723-0~quantal1) quantal; urgency=low
-
-  * New upstream release - a.k.a. 3.0RC2
-
- -- Pavel Kalian <pavel@kalian.cz>  Thu, 24 May 2012 07:02:16 +0200
-opencpn (2.6.1723-0~precise1) precise; urgency=low
-
-  * New upstream release - a.k.a. 3.0RC2
-
- -- Pavel Kalian <pavel@kalian.cz>  Thu, 24 May 2012 07:02:16 +0200
-opencpn (2.6.1723-0~oneiric1) oneiric; urgency=low
-
-  * New upstream release - a.k.a. 3.0RC2
-
- -- Pavel Kalian <pavel@kalian.cz>  Thu, 24 May 2012 07:02:16 +0200
-opencpn (2.6.1723-0~natty1) natty; urgency=low
-
-  * New upstream release - a.k.a. 3.0RC2
-
- -- Pavel Kalian <pavel@kalian.cz>  Thu, 24 May 2012 07:02:16 +0200
-opencpn (2.6.1723-0~maverick1) maverick; urgency=low
-
-  * New upstream release - a.k.a. 3.0RC2
-
- -- Pavel Kalian <pavel@kalian.cz>  Thu, 24 May 2012 07:02:16 +0200
-opencpn (2.6.1723-0~lucid1) lucid; urgency=low
-
-  * New upstream release - a.k.a. 3.0RC2
-
- -- Pavel Kalian <pavel@kalian.cz>  Thu, 24 May 2012 07:02:16 +0200
-opencpn (2.6.1718-0~quantal2) quantal; urgency=low
-
-  * Pre-RC2 build to test the update process
-
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 21 May 2012 09:52:31 +0200
-opencpn (2.6.1718-0~precise2) precise; urgency=low
-
-  * Pre-RC2 build to test the update process
-
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 21 May 2012 09:52:31 +0200
-opencpn (2.6.1718-0~oneiric2) oneiric; urgency=low
-
-  * Pre-RC2 build to test the update process
-
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 21 May 2012 09:52:31 +0200
-opencpn (2.6.1718-0~natty2) natty; urgency=low
-
-  * Pre-RC2 build to test the update process
-
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 21 May 2012 09:52:31 +0200
-opencpn (2.6.1718-0~maverick2) maverick; urgency=low
-
-  * Pre-RC2 build to test the update process
-
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 21 May 2012 09:52:31 +0200
-opencpn (2.6.1718-0~lucid2) lucid; urgency=low
-
-  * Pre-RC2 build to test the update process
-
- -- Pavel Kalian <pavel@kalian.cz>  Mon, 21 May 2012 09:52:31 +0200
-opencpn (2.6.1718-0quantal1) quantal; urgency=low
-
-  * New upstream release
-
- -- Pavel Kalian <pavel@kalian.cz>  Fri, 18 May 2012 16:12:28 +0200
-opencpn (2.6.1718-0precise1) precise; urgency=low
-
-  * New upstream release
-
- -- Pavel Kalian <pavel@kalian.cz>  Fri, 18 May 2012 16:12:28 +0200
-opencpn (2.6.1718-0oneiric1) oneiric; urgency=low
-
-  * New upstream release
-
- -- Pavel Kalian <pavel@kalian.cz>  Fri, 18 May 2012 16:12:28 +0200
-opencpn (2.6.1718-0natty1) natty; urgency=low
-
-  * New upstream release
-
- -- Pavel Kalian <pavel@kalian.cz>  Fri, 18 May 2012 16:12:28 +0200
-opencpn (2.6.1718-0maverick1) maverick; urgency=low
-
-  * New upstream release
-
- -- Pavel Kalian <pavel@kalian.cz>  Fri, 18 May 2012 16:12:28 +0200
-opencpn (2.6.1718-0lucid1) lucid; urgency=low
-
-  * New upstream release
-
- -- Pavel Kalian <pavel@kalian.cz>  Fri, 18 May 2012 16:12:28 +0200
-opencpn (2.6.1715-0quantal2) quantal; urgency=low
-
-  * fixed buffer overrun in the presentation library
-
- -- Pavel Kalian <pavel@kalian.cz>  Wed, 16 May 2012 08:35:13 +0200
-opencpn (2.6.1705-2) oneiric; urgency=low
-
-  * Initial release
-
- -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 May 2012 14:39:08 +0200
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Jun 2012 08:50:25 +0200

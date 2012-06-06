@@ -7,7 +7,7 @@ AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
 Ubuntus=('lucid' 'maverick' 'natty' 'oneiric' 'precise' 'quantal')
-LPUSER='nohal'
+LPUSER='opencpn'
 WORKDIR=/tmp/launchpad
 BRANCH=master
 
