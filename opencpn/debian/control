@@ -3,7 +3,7 @@ Section: misc
 Priority: extra
 Maintainer: Pavel Kalian <pavel@kalian.cz>
 Build-Depends: debhelper (>= 8.0.0), cmake, cdbs, libgtk2.0-dev, gettext, gpsd, gpsd-clients, libgps-dev, wx-common, libwxgtk2.8-dev, libglu1-mesa-dev, libgtk2.0-dev, wx2.8-headers, libbz2-dev, libtinyxml-dev, libsdl1.2debian
-Standards-Version: 3.9.2
+Standards-Version: 3.9.3
 Homepage: http://www.opencpn.org
 #Vcs-Git: git://git.debian.org/collab-maint/opencpn.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/opencpn.git;a=summary
