@@ -2,14 +2,14 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=3.0.1
+VERSION=3.1.1105
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
 Ubuntus=('lucid' 'maverick' 'natty' 'oneiric' 'precise' 'quantal')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
-BRANCH=opencpngithub/beta30_stable
+BRANCH=opencpngithub/beta31_stable
 
 MYDIR=`pwd`
 if [ $# -lt 1 ] ; then
@@ -24,6 +24,9 @@ cd launchpad
 cp $WORKDIR/opencpn_$VERSION.tar.bz2 $WORKDIR/opencpn_$VERSION.orig.tar.bz2
 cp -rf opencpn /tmp/launchpad
 tar jxf $WORKDIR/opencpn_$VERSION.tar.bz2 -C $WORKDIR/opencpn
+
+read -p "Press [Enter] to publish (now it's time to apply patches manually if needed)"
+
 for u in "${Ubuntus[@]}"
 do
  cat changelog.tpl|sed "s/VERSION/$VERSION/g"|sed "s/UBUNTU/$u/g"|sed "s/SERIES/$SERIES/g"|sed "s/MESSAGE/$1/g"|sed "s/AUTHOR/$AUTHOR/g"|sed "s/TIMESTAMP/$DATE/g" > $WORKDIR/dummy
