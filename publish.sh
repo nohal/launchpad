@@ -2,7 +2,7 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=3.1.1206
+VERSION=3.1.1328
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
@@ -33,7 +33,7 @@ do
  cat $WORKDIR/opencpn/debian/changelog >> $WORKDIR/dummy
  mv $WORKDIR/dummy $WORKDIR/opencpn/debian/changelog
  cd $WORKDIR/opencpn
- debuild -S
+ debuild -k0xB43F1889 -S
  dput -f ppa:$LPUSER/opencpn ../opencpn_$VERSION-0~"$u""$SERIES"_source.changes
  cd $MYDIR
 done

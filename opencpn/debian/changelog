@@ -1,3 +1,33 @@
+opencpn (3.1.1328-0~quantal1) quantal; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 28 Jan 2013 12:14:48 -0600
+opencpn (3.1.1328-0~precise1) precise; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 28 Jan 2013 12:14:48 -0600
+opencpn (3.1.1328-0~oneiric1) oneiric; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 28 Jan 2013 12:14:48 -0600
+opencpn (3.1.1328-0~natty1) natty; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 28 Jan 2013 12:14:48 -0600
+opencpn (3.1.1328-0~maverick1) maverick; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 28 Jan 2013 12:14:48 -0600
+opencpn (3.1.1328-0~lucid1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 28 Jan 2013 12:14:48 -0600
 opencpn (3.1.1206-0~quantal1) quantal; urgency=low
 
   * New upstream release
