@@ -1,3 +1,73 @@
+opencpn (3.1.1328-0~raring4) raring; urgency=low
+
+  * Fix portaudio build dependencies
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 31 Jan 2013 15:27:22 -0600
+opencpn (3.1.1328-0~quantal4) quantal; urgency=low
+
+  * Fix portaudio build dependencies
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 31 Jan 2013 15:27:22 -0600
+opencpn (3.1.1328-0~precise4) precise; urgency=low
+
+  * Fix portaudio build dependencies
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 31 Jan 2013 15:27:22 -0600
+opencpn (3.1.1328-0~oneiric4) oneiric; urgency=low
+
+  * Fix portaudio build dependencies
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 31 Jan 2013 15:27:22 -0600
+opencpn (3.1.1328-0~natty4) natty; urgency=low
+
+  * Fix portaudio build dependencies
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 31 Jan 2013 15:27:22 -0600
+opencpn (3.1.1328-0~maverick4) maverick; urgency=low
+
+  * Fix portaudio build dependencies
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 31 Jan 2013 15:27:22 -0600
+opencpn (3.1.1328-0~lucid4) lucid; urgency=low
+
+  * Fix portaudio build dependencies
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 31 Jan 2013 15:27:22 -0600
+opencpn (3.1.1328-0~raring3) raring; urgency=low
+
+  * Try to fix pulseaudio build dependency
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 Jan 2013 17:49:04 -0600
+opencpn (3.1.1328-0~quantal3) quantal; urgency=low
+
+  * Try to fix pulseaudio build dependency
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 Jan 2013 17:49:04 -0600
+opencpn (3.1.1328-0~precise3) precise; urgency=low
+
+  * Try to fix pulseaudio build dependency
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 Jan 2013 17:49:04 -0600
+opencpn (3.1.1328-0~oneiric3) oneiric; urgency=low
+
+  * Try to fix pulseaudio build dependency
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 Jan 2013 17:49:04 -0600
+opencpn (3.1.1328-0~natty3) natty; urgency=low
+
+  * Try to fix pulseaudio build dependency
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 Jan 2013 17:49:04 -0600
+opencpn (3.1.1328-0~maverick3) maverick; urgency=low
+
+  * Try to fix pulseaudio build dependency
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 Jan 2013 17:49:04 -0600
+opencpn (3.1.1328-0~lucid3) lucid; urgency=low
+
+  * Try to fix pulseaudio build dependency
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 30 Jan 2013 17:49:04 -0600
 opencpn (3.1.1328-0~quantal1) quantal; urgency=low
 
   * New upstream version

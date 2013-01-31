@@ -5,7 +5,7 @@
 VERSION=3.1.1328
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
-SERIES=1
+SERIES=4
 Ubuntus=('lucid' 'maverick' 'natty' 'oneiric' 'precise' 'quantal' 'raring')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
