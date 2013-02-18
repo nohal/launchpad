@@ -2,10 +2,10 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=3.1.1328
+VERSION=3.1.1417
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
-SERIES=4
+SERIES=1
 Ubuntus=('lucid' 'maverick' 'natty' 'oneiric' 'precise' 'quantal' 'raring')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad

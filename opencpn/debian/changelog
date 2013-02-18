@@ -1,3 +1,108 @@
+opencpn (3.1.1417-0~raring1) raring; urgency=low
+
+  * Upstream version bump
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 18 Feb 2013 10:05:53 -0600
+opencpn (3.1.1417-0~quantal1) quantal; urgency=low
+
+  * Upstream version bump
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 18 Feb 2013 10:05:53 -0600
+opencpn (3.1.1417-0~precise1) precise; urgency=low
+
+  * Upstream version bump
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 18 Feb 2013 10:05:53 -0600
+opencpn (3.1.1417-0~oneiric1) oneiric; urgency=low
+
+  * Upstream version bump
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 18 Feb 2013 10:05:53 -0600
+opencpn (3.1.1417-0~natty1) natty; urgency=low
+
+  * Upstream version bump
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 18 Feb 2013 10:05:53 -0600
+opencpn (3.1.1417-0~maverick1) maverick; urgency=low
+
+  * Upstream version bump
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 18 Feb 2013 10:05:53 -0600
+opencpn (3.1.1417-0~lucid1) lucid; urgency=low
+
+  * Upstream version bump
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 18 Feb 2013 10:05:53 -0600
+opencpn (3.1.1411-0~raring1) raring; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 12 Feb 2013 10:42:04 -0600
+opencpn (3.1.1411-0~quantal1) quantal; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 12 Feb 2013 10:42:04 -0600
+opencpn (3.1.1411-0~precise1) precise; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 12 Feb 2013 10:42:04 -0600
+opencpn (3.1.1411-0~oneiric1) oneiric; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 12 Feb 2013 10:42:04 -0600
+opencpn (3.1.1411-0~natty1) natty; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 12 Feb 2013 10:42:04 -0600
+opencpn (3.1.1411-0~maverick1) maverick; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 12 Feb 2013 10:42:04 -0600
+opencpn (3.1.1411-0~lucid1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 12 Feb 2013 10:42:04 -0600
+opencpn (3.1.1405-0~raring1) raring; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Feb 2013 10:22:53 -0600
+opencpn (3.1.1405-0~quantal1) quantal; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Feb 2013 10:22:53 -0600
+opencpn (3.1.1405-0~precise1) precise; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Feb 2013 10:22:53 -0600
+opencpn (3.1.1405-0~oneiric1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Feb 2013 10:22:53 -0600
+opencpn (3.1.1405-0~natty1) natty; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Feb 2013 10:22:53 -0600
+opencpn (3.1.1405-0~maverick1) maverick; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Feb 2013 10:22:53 -0600
+opencpn (3.1.1405-0~lucid1) lucid; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 06 Feb 2013 10:22:53 -0600
 opencpn (3.1.1328-0~raring4) raring; urgency=low
 
   * Fix portaudio build dependencies
