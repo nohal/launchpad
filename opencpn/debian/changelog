@@ -1,3 +1,38 @@
+opencpn (3.2.1-0~raring1) raring; urgency=low
+
+  * Upstream 3.2.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Apr 2013 13:03:48 -0500
+opencpn (3.2.1-0~quantal1) quantal; urgency=low
+
+  * Upstream 3.2.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Apr 2013 13:03:48 -0500
+opencpn (3.2.1-0~precise1) precise; urgency=low
+
+  * Upstream 3.2.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Apr 2013 13:03:48 -0500
+opencpn (3.2.1-0~oneiric1) oneiric; urgency=low
+
+  * Upstream 3.2.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Apr 2013 13:03:48 -0500
+opencpn (3.2.1-0~natty1) natty; urgency=low
+
+  * Upstream 3.2.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Apr 2013 13:03:48 -0500
+opencpn (3.2.1-0~maverick1) maverick; urgency=low
+
+  * Upstream 3.2.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Apr 2013 13:03:48 -0500
+opencpn (3.2.1-0~lucid1) lucid; urgency=low
+
+  * Upstream 3.2.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Apr 2013 13:03:48 -0500
 opencpn (3.2.0-0~raring1) raring; urgency=low
 
   * Upstream 3.2.0 official release
