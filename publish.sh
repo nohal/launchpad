@@ -2,14 +2,14 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=3.2.2
+VERSION=3.3.604
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
 Ubuntus=('lucid' 'maverick' 'natty' 'oneiric' 'precise' 'quantal' 'raring')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
-BRANCH=opencpngithub/release32_stable
+BRANCH=opencpngithub/master
 
 MYDIR=`pwd`
 if [ $# -lt 1 ] ; then
