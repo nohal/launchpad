@@ -1,3 +1,38 @@
+opencpn (3.3.719-0~raring1) raring; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Jul 2013 15:31:44 -0500
+opencpn (3.3.719-0~saucy1) saucy; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Jul 2013 15:00:40 -0500
+opencpn (3.3.719-0~raring,1) raring,; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Jul 2013 15:00:40 -0500
+opencpn (3.3.719-0~quantal1) quantal; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Jul 2013 15:00:40 -0500
+opencpn (3.3.719-0~precise1) precise; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Jul 2013 15:00:40 -0500
+opencpn (3.3.719-0~oneiric1) oneiric; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Jul 2013 15:00:40 -0500
+opencpn (3.3.719-0~lucid1) lucid; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Jul 2013 15:00:40 -0500
 opencpn (3.3.604-0~raring1) raring; urgency=low
 
   * 3.3.604 beta
