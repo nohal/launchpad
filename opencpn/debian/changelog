@@ -1,3 +1,173 @@
+opencpn (3.3.1419-0~trusty1) trusty; urgency=low
+
+  * 3.3.1419
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 19 Feb 2014 15:40:01 -0600
+opencpn (3.3.1419-0~saucy1) saucy; urgency=low
+
+  * 3.3.1419
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 19 Feb 2014 15:40:01 -0600
+opencpn (3.3.1419-0~raring1) raring; urgency=low
+
+  * 3.3.1419
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 19 Feb 2014 15:40:01 -0600
+opencpn (3.3.1419-0~quantal1) quantal; urgency=low
+
+  * 3.3.1419
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 19 Feb 2014 15:40:01 -0600
+opencpn (3.3.1419-0~precise1) precise; urgency=low
+
+  * 3.3.1419
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 19 Feb 2014 15:40:01 -0600
+opencpn (3.3.1419-0~lucid1) lucid; urgency=low
+
+  * 3.3.1419
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 19 Feb 2014 15:40:01 -0600
+opencpn (3.3.1328-0~trusty1) trusty; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 28 Jan 2014 15:01:41 -0600
+opencpn (3.3.1328-0~saucy1) saucy; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 28 Jan 2014 15:01:41 -0600
+opencpn (3.3.1328-0~raring1) raring; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 28 Jan 2014 15:01:41 -0600
+opencpn (3.3.1328-0~quantal1) quantal; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 28 Jan 2014 15:01:41 -0600
+opencpn (3.3.1328-0~precise1) precise; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 28 Jan 2014 15:01:41 -0600
+opencpn (3.3.1328-0~lucid1) lucid; urgency=low
+
+  * New upstream release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 28 Jan 2014 15:01:41 -0600
+opencpn (3.3.1303-0~trusty1) trusty; urgency=low
+
+  * 3.3.1303
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 03 Jan 2014 14:20:45 -0600
+opencpn (3.3.1303-0~saucy1) saucy; urgency=low
+
+  * 3.3.1303
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 03 Jan 2014 14:20:45 -0600
+opencpn (3.3.1303-0~raring1) raring; urgency=low
+
+  * 3.3.1303
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 03 Jan 2014 14:20:45 -0600
+opencpn (3.3.1303-0~quantal1) quantal; urgency=low
+
+  * 3.3.1303
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 03 Jan 2014 14:20:45 -0600
+opencpn (3.3.1303-0~precise1) precise; urgency=low
+
+  * 3.3.1303
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 03 Jan 2014 14:20:45 -0600
+opencpn (3.3.1303-0~lucid1) lucid; urgency=low
+
+  * 3.3.1303
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 03 Jan 2014 14:20:45 -0600
+opencpn (3.3.1117-0~trusty1) trusty; urgency=low
+
+  * 3.3.1117
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 17 Nov 2013 23:48:19 -0600
+opencpn (3.3.1117-0~saucy1) saucy; urgency=low
+
+  * 3.3.1117
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 17 Nov 2013 23:48:19 -0600
+opencpn (3.3.1117-0~raring1) raring; urgency=low
+
+  * 3.3.1117
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 17 Nov 2013 23:48:19 -0600
+opencpn (3.3.1117-0~quantal1) quantal; urgency=low
+
+  * 3.3.1117
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 17 Nov 2013 23:48:19 -0600
+opencpn (3.3.1117-0~precise1) precise; urgency=low
+
+  * 3.3.1117
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 17 Nov 2013 23:48:19 -0600
+opencpn (3.3.1117-0~lucid1) lucid; urgency=low
+
+  * 3.3.1117
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 17 Nov 2013 23:48:19 -0600
+opencpn (3.3.1006-0~saucy1) saucy; urgency=low
+
+  * 3.3.1006 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 07 Oct 2013 10:52:57 -0500
+opencpn (3.3.1006-0~raring1) raring; urgency=low
+
+  * 3.3.1006 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 07 Oct 2013 10:52:57 -0500
+opencpn (3.3.1006-0~quantal1) quantal; urgency=low
+
+  * 3.3.1006 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 07 Oct 2013 10:52:57 -0500
+opencpn (3.3.1006-0~precise1) precise; urgency=low
+
+  * 3.3.1006 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 07 Oct 2013 10:52:57 -0500
+opencpn (3.3.1006-0~lucid1) lucid; urgency=low
+
+  * 3.3.1006 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 07 Oct 2013 10:52:57 -0500
+opencpn (3.3.814-0~saucy1) saucy; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 14 Aug 2013 16:21:29 -0500
+opencpn (3.3.814-0~raring1) raring; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 14 Aug 2013 16:21:29 -0500
+opencpn (3.3.814-0~quantal1) quantal; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 14 Aug 2013 16:21:29 -0500
+opencpn (3.3.814-0~precise1) precise; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 14 Aug 2013 16:21:29 -0500
+opencpn (3.3.814-0~lucid1) lucid; urgency=low
+
+  * New upstream beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 14 Aug 2013 16:21:29 -0500
 opencpn (3.3.719-0~raring1) raring; urgency=low
 
   * New upstream beta

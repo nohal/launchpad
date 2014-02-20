@@ -2,11 +2,11 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=3.3.719
+VERSION=3.3.1419
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
-Ubuntus=('lucid' 'precise' 'quantal' 'raring' 'saucy')
+Ubuntus=('lucid' 'precise' 'quantal' 'saucy' 'trusty')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
 BRANCH=opencpngithub/master
