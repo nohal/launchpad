@@ -1,3 +1,228 @@
+opencpn (3.3.1731-0~trusty2) trusty; urgency=low
+
+  * New upstream beta version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 01 Jun 2014 01:59:21 -0500
+opencpn (3.3.1731-0~saucy2) saucy; urgency=low
+
+  * New upstream beta version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 01 Jun 2014 01:59:21 -0500
+opencpn (3.3.1731-0~quantal2) quantal; urgency=low
+
+  * New upstream beta version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 01 Jun 2014 01:59:21 -0500
+opencpn (3.3.1731-0~precise2) precise; urgency=low
+
+  * New upstream beta version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 01 Jun 2014 01:59:21 -0500
+opencpn (3.3.1731-0~lucid2) lucid; urgency=low
+
+  * New upstream beta version
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 01 Jun 2014 01:59:21 -0500
+opencpn (3.3.1606-0~trusty2) trusty; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:13:18 -0500
+opencpn (3.3.1606-0~saucy2) saucy; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:13:18 -0500
+opencpn (3.3.1606-0~quantal2) quantal; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:13:18 -0500
+opencpn (3.3.1606-0~precise2) precise; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:13:18 -0500
+opencpn (3.3.1606-0~lucid2) lucid; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:13:18 -0500
+opencpn (3.3.1606-0~trusty2) trusty; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:01:04 -0500
+opencpn (3.3.1606-0~saucy2) saucy; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:01:04 -0500
+opencpn (3.3.1606-0~quantal2) quantal; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:01:04 -0500
+opencpn (3.3.1606-0~precise2) precise; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:01:04 -0500
+opencpn (3.3.1606-0~lucid2) lucid; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 15:01:04 -0500
+opencpn (3.3.1606-0~trusty2) trusty; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:59:08 -0500
+opencpn (3.3.1606-0~saucy2) saucy; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:59:08 -0500
+opencpn (3.3.1606-0~quantal2) quantal; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:59:08 -0500
+opencpn (3.3.1606-0~precise2) precise; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:59:08 -0500
+opencpn (3.3.1606-0~lucid2) lucid; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:59:08 -0500
+opencpn (3.3.1606-0~trusty2) trusty; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:45:08 -0500
+opencpn (3.3.1606-0~saucy2) saucy; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:45:08 -0500
+opencpn (3.3.1606-0~quantal2) quantal; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:45:08 -0500
+opencpn (3.3.1606-0~precise2) precise; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:45:08 -0500
+opencpn (3.3.1606-0~lucid2) lucid; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:45:08 -0500
+opencpn (3.3.1606-0~trusty2) trusty; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:41:59 -0500
+opencpn (3.3.1606-0~saucy2) saucy; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:41:59 -0500
+opencpn (3.3.1606-0~quantal2) quantal; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:41:59 -0500
+opencpn (3.3.1606-0~precise2) precise; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:41:59 -0500
+opencpn (3.3.1606-0~lucid2) lucid; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:41:59 -0500
+opencpn (3.3.1606-0~trusty2) trusty; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:39:27 -0500
+opencpn (3.3.1606-0~saucy2) saucy; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:39:27 -0500
+opencpn (3.3.1606-0~quantal2) quantal; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:39:27 -0500
+opencpn (3.3.1606-0~precise2) precise; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:39:27 -0500
+opencpn (3.3.1606-0~lucid2) lucid; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:39:27 -0500
+opencpn (3.3.1606-0~trusty2) trusty; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:36:07 -0500
+opencpn (3.3.1606-0~saucy2) saucy; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:36:07 -0500
+opencpn (3.3.1606-0~quantal2) quantal; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:36:07 -0500
+opencpn (3.3.1606-0~precise2) precise; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:36:07 -0500
+opencpn (3.3.1606-0~lucid2) lucid; urgency=low
+
+  * Add recommended packages
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 13 Apr 2014 14:36:07 -0500
+opencpn (3.3.1606-0~trusty1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 06 Apr 2014 21:47:23 -0500
+opencpn (3.3.1606-0~saucy1) saucy; urgency=low
+
+  * New upstream beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 06 Apr 2014 21:47:23 -0500
+opencpn (3.3.1606-0~quantal1) quantal; urgency=low
+
+  * New upstream beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 06 Apr 2014 21:47:23 -0500
+opencpn (3.3.1606-0~precise1) precise; urgency=low
+
+  * New upstream beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 06 Apr 2014 21:47:23 -0500
+opencpn (3.3.1606-0~lucid1) lucid; urgency=low
+
+  * New upstream beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 06 Apr 2014 21:47:23 -0500
 opencpn (3.3.1419-0~trusty1) trusty; urgency=low
 
   * 3.3.1419

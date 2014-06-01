@@ -2,11 +2,11 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=3.3.1419
+VERSION=3.3.1731
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
-Ubuntus=('lucid' 'precise' 'quantal' 'saucy' 'trusty')
+Ubuntus=('lucid' 'precise' 'quantal' 'saucy' 'trusty' 'utopic')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
 BRANCH=opencpngithub/master
@@ -17,12 +17,12 @@ if [ $# -lt 1 ] ; then
  exit 0 
 fi
 
-mkdir /tmp/launchpad
+mkdir $WORKDIR
 cd ..
 git archive $BRANCH | bzip2 > $WORKDIR/opencpn_$VERSION.tar.bz2
 cd launchpad
 cp $WORKDIR/opencpn_$VERSION.tar.bz2 $WORKDIR/opencpn_$VERSION.orig.tar.bz2
-cp -rf opencpn /tmp/launchpad
+cp -rf opencpn $WORKDIR
 tar jxf $WORKDIR/opencpn_$VERSION.tar.bz2 -C $WORKDIR/opencpn
 
 read -p "Press [Enter] to publish (now it's time to apply patches manually if needed)"
@@ -34,9 +34,10 @@ do
  mv $WORKDIR/dummy $WORKDIR/opencpn/debian/changelog
  cd $WORKDIR/opencpn
  debuild -k0xB43F1889 -S
- dput -f ppa:$LPUSER/opencpn ../opencpn_$VERSION-0~"$u""$SERIES"_source.changes
+ #dput -f ppa:$LPUSER/opencpn ../opencpn_$VERSION-0~"$u""$SERIES"_source.changes
+ dput -f ppa ../opencpn_$VERSION-0~"$u""$SERIES"_source.changes
  cd $MYDIR
 done
 
 cp $WORKDIR/opencpn/debian/changelog opencpn/debian
-rm -rf /tmp/launchpad
+rm -rf $WORKDIR

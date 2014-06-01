@@ -11,5 +11,6 @@ Homepage: http://www.opencpn.org
 Package: opencpn
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: xcalib,xdg-utils
 Description: Concise chartplotter and navigation software
  OpenCPN is a free software (GPLv2) project to create a concise chartplotter and navigation software for use as an underway or planning tool.  OpenCPN is developed by a team of active sailors using real world conditions for program testing and refinement.
