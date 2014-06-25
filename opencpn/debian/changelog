@@ -1,3 +1,33 @@
+opencpn (3.3.1824-0~utopic1) utopic; urgency=low
+
+  * 3.3.1824 beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 24 Jun 2014 19:25:04 -0500
+opencpn (3.3.1824-0~trusty1) trusty; urgency=low
+
+  * 3.3.1824 beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 24 Jun 2014 19:25:04 -0500
+opencpn (3.3.1824-0~saucy1) saucy; urgency=low
+
+  * 3.3.1824 beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 24 Jun 2014 19:25:04 -0500
+opencpn (3.3.1824-0~quantal1) quantal; urgency=low
+
+  * 3.3.1824 beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 24 Jun 2014 19:25:04 -0500
+opencpn (3.3.1824-0~precise1) precise; urgency=low
+
+  * 3.3.1824 beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 24 Jun 2014 19:25:04 -0500
+opencpn (3.3.1824-0~lucid1) lucid; urgency=low
+
+  * 3.3.1824 beta release
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 24 Jun 2014 19:25:04 -0500
 opencpn (3.3.1731-0~trusty2) trusty; urgency=low
 
   * New upstream beta version
