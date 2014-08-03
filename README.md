@@ -22,4 +22,4 @@ login           = anonymous
 
 TODO
 ----
-poly-c-1.dat from opencpn-gshhs-crude conflicts with the base opencpn package, it should be removed
+Done. poly-c-1.dat from opencpn-gshhs-crude conflicts with the base opencpn package, it should be removed
