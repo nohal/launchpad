@@ -1,0 +1,15 @@
+Source: opencpn-doc
+Section: misc
+Priority: extra
+Maintainer: Pavel Kalian <pavel@kalian.cz>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.opencpn.org
+#Vcs-Git: git://git.debian.org/collab-maint/opencpn.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/opencpn.git;a=summary
+
+Package: opencpn-doc
+Architecture: all
+Depends: opencpn
+Description: Documentation for OpenCPN Navigation software
+ OpenCPN is a free software (GPLv2) project to create a concise chartplotter and navigation software for use as an underway or planning tool.  OpenCPN is developed by a team of active sailors using real world conditions for program testing and refinement.
