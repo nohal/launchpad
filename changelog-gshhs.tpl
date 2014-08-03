@@ -1,0 +1,5 @@
+opencpn-gshhs (VERSION-0~UBUNTUSERIES) UBUNTU; urgency=low
+
+  * MESSAGE
+
+ -- AUTHOR  TIMESTAMP
