@@ -2,13 +2,13 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=3.3.1932
+VERSION=3.3.2107
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
 Ubuntus=('lucid' 'precise' 'trusty' 'utopic')
 LPUSER='nohal'
-PPA='opencpn-data'
+PPA='opencpn'
 WORKDIR=/tmp/launchpad
 
 MYDIR=`pwd`
@@ -33,7 +33,7 @@ do
  mv $WORKDIR/dummy $WORKDIR/opencpn-tcdata/debian/changelog
  cd $WORKDIR/opencpn-tcdata
  debuild -k0xB43F1889 -S
- dput -f ppa-data ../opencpn-tcdata_$VERSION-0~"$u""$SERIES"_source.changes
+ dput -f ppa ../opencpn-tcdata_$VERSION-0~"$u""$SERIES"_source.changes
  cd $MYDIR
 done
 

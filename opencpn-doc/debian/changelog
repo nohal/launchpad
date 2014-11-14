@@ -1,3 +1,63 @@
+opencpn-doc (3.3.2107.1-0~utopic1) utopic; urgency=low
+
+  * Remove conflicting file
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 22:12:31 -0500
+opencpn-doc (3.3.2107.1-0~trusty1) trusty; urgency=low
+
+  * Remove conflicting file
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 22:12:31 -0500
+opencpn-doc (3.3.2107.1-0~precise1) precise; urgency=low
+
+  * Remove conflicting file
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 22:12:31 -0500
+opencpn-doc (3.3.2107.1-0~lucid1) lucid; urgency=low
+
+  * Remove conflicting file
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 22:12:31 -0500
+opencpn-doc (3.3.2107-0~utopic3) utopic; urgency=low
+
+  * Remove conflicting file
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 21:53:23 -0500
+opencpn-doc (3.3.2107-0~trusty3) trusty; urgency=low
+
+  * Remove conflicting file
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 21:53:23 -0500
+opencpn-doc (3.3.2107-0~precise3) precise; urgency=low
+
+  * Remove conflicting file
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 21:53:23 -0500
+opencpn-doc (3.3.2107-0~lucid3) lucid; urgency=low
+
+  * Remove conflicting file
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 21:53:23 -0500
+opencpn-doc (3.3.2107-0~utopic2) utopic; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 20:05:53 -0500
+opencpn-doc (3.3.2107-0~trusty2) trusty; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 20:05:53 -0500
+opencpn-doc (3.3.2107-0~precise2) precise; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 20:05:53 -0500
+opencpn-doc (3.3.2107-0~lucid2) lucid; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 20:05:53 -0500
 opencpn-doc (3.3.1931-0~utopic2) utopic; urgency=low
 
   * 3.3.1931

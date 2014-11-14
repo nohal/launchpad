@@ -1,3 +1,78 @@
+opencpn (3.3.2302-0~lucid1) lucid; urgency=low
+
+  * 3.3.2302
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 03 Nov 2014 00:10:57 -0600
+opencpn (3.3.2302-0~precise1) precise; urgency=low
+
+  * 3.3.2302
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 03 Nov 2014 00:10:57 -0600
+opencpn (3.3.2302-0~trusty1) trusty; urgency=low
+
+  * 3.3.2302
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 03 Nov 2014 00:10:57 -0600
+opencpn (3.3.2302-0~utopic1) utopic; urgency=low
+
+  * 3.3.2302
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 03 Nov 2014 00:10:57 -0600
+opencpn (3.3.2222-0~lucid1) lucid; urgency=low
+
+  * 3.3.2222
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 23 Oct 2014 00:10:19 -0500
+opencpn (3.3.2222-0~precise1) precise; urgency=low
+
+  * 3.3.2222
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 23 Oct 2014 00:10:19 -0500
+opencpn (3.3.2222-0~trusty1) trusty; urgency=low
+
+  * 3.3.2222
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 23 Oct 2014 00:10:19 -0500
+opencpn (3.3.2222-0~utopic1) utopic; urgency=low
+
+  * 3.3.2222
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 23 Oct 2014 00:10:19 -0500
+opencpn (3.3.2118-0~trusty1) trusty; urgency=low
+
+  * 3.3.2118 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Sep 2014 00:39:34 -0500
+opencpn (3.3.2118-0~precise1) precise; urgency=low
+
+  * 3.3.2118 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Sep 2014 00:39:34 -0500
+opencpn (3.3.2118-0~lucid1) lucid; urgency=low
+
+  * 3.3.2118 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 19 Sep 2014 00:39:34 -0500
+opencpn (3.3.2107-0~utopic1) utopic; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 19:41:12 -0500
+opencpn (3.3.2107-0~trusty1) trusty; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 19:41:12 -0500
+opencpn (3.3.2107-0~precise1) precise; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 19:41:12 -0500
+opencpn (3.3.2107-0~lucid1) lucid; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 19:41:12 -0500
 opencpn (3.3.1931-0~utopic2) utopic; urgency=low
 
   * Testing package for the modularized system

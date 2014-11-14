@@ -1,3 +1,23 @@
+opencpn-tcdata (3.3.2107-0~utopic1) utopic; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 20:12:38 -0500
+opencpn-tcdata (3.3.2107-0~trusty1) trusty; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 20:12:38 -0500
+opencpn-tcdata (3.3.2107-0~precise1) precise; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 20:12:38 -0500
+opencpn-tcdata (3.3.2107-0~lucid1) lucid; urgency=low
+
+  * 3.3.2107
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Sep 2014 20:12:38 -0500
 opencpn-tcdata (3.3.1932-0~utopic1) utopic; urgency=low
 
   * Tide data 3.3.1932
