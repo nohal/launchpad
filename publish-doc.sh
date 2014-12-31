@@ -2,7 +2,7 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=3.3.2107.1
+VERSION=3.3.2430
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
@@ -20,7 +20,7 @@ fi
 mkdir $WORKDIR
 cp opencpn-doc_$VERSION.tar.xz $WORKDIR/opencpn-doc_$VERSION.orig.tar.xz
 cp -rf opencpn-doc $WORKDIR
-tar Jxf opencpn-doc_$VERSION.tar.xz -C $WORKDIR/opencpn-doc
+tar Jxvf opencpn-doc_$VERSION.tar.xz -C $WORKDIR/opencpn-doc
 mv $WORKDIR/opencpn-doc/opencpn/doc $WORKDIR/opencpn-doc
 rm -rf $WORKDIR/opencpn-doc/opencpn
 

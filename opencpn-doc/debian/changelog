@@ -1,3 +1,23 @@
+opencpn-doc (3.3.2430-0~utopic1) utopic; urgency=low
+
+  * 3.3.2430
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 21:24:35 -0600
+opencpn-doc (3.3.2430-0~trusty1) trusty; urgency=low
+
+  * 3.3.2430
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 21:24:35 -0600
+opencpn-doc (3.3.2430-0~precise1) precise; urgency=low
+
+  * 3.3.2430
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 21:24:35 -0600
+opencpn-doc (3.3.2430-0~lucid1) lucid; urgency=low
+
+  * 3.3.2430
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 21:24:35 -0600
 opencpn-doc (3.3.2107.1-0~utopic1) utopic; urgency=low
 
   * Remove conflicting file
