@@ -1,3 +1,78 @@
+opencpn (4.0.0-0~lucid1) lucid; urgency=low
+
+  * OpenCPN 4.0.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 07 Jan 2015 21:08:58 -0600
+opencpn (4.0.0-0~precise1) precise; urgency=low
+
+  * OpenCPN 4.0.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 07 Jan 2015 21:08:58 -0600
+opencpn (4.0.0-0~trusty1) trusty; urgency=low
+
+  * OpenCPN 4.0.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 07 Jan 2015 21:08:58 -0600
+opencpn (4.0.0-0~utopic1) utopic; urgency=low
+
+  * OpenCPN 4.0.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 07 Jan 2015 21:08:58 -0600
+opencpn (4.0.0-0~vivid1) vivid; urgency=low
+
+  * OpenCPN 4.0.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 07 Jan 2015 21:08:58 -0600
+opencpn (3.3.2503-0~lucid1) lucid; urgency=low
+
+  * 3.3.2503
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 03 Jan 2015 23:22:32 -0600
+opencpn (3.3.2503-0~precise1) precise; urgency=low
+
+  * 3.3.2503
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 03 Jan 2015 23:22:32 -0600
+opencpn (3.3.2503-0~trusty1) trusty; urgency=low
+
+  * 3.3.2503
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 03 Jan 2015 23:22:32 -0600
+opencpn (3.3.2503-0~utopic1) utopic; urgency=low
+
+  * 3.3.2503
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 03 Jan 2015 23:22:32 -0600
+opencpn (3.3.2503-0~vivid1) vivid; urgency=low
+
+  * 3.3.2503
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 03 Jan 2015 23:22:32 -0600
+opencpn (3.3.2430-0~lucid1) lucid; urgency=low
+
+  * 3.3.2430 aka. 4.0RC1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 22:08:18 -0600
+opencpn (3.3.2430-0~precise1) precise; urgency=low
+
+  * 3.3.2430 aka. 4.0RC1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 22:08:18 -0600
+opencpn (3.3.2430-0~trusty1) trusty; urgency=low
+
+  * 3.3.2430 aka. 4.0RC1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 22:08:18 -0600
+opencpn (3.3.2430-0~utopic1) utopic; urgency=low
+
+  * 3.3.2430 aka. 4.0RC1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 22:08:18 -0600
+opencpn (3.3.2430-0~vivid1) vivid; urgency=low
+
+  * 3.3.2430 aka. 4.0RC1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 30 Dec 2014 22:08:18 -0600
 opencpn (3.3.2424-0~lucid1) lucid; urgency=low
 
   * 3.3.2424
