@@ -22,4 +22,4 @@ login           = anonymous
 
 TODO
 ----
-Done. poly-c-1.dat from opencpn-gshhs-crude conflicts with the base opencpn package, it should be removed
+before uploading the sources, strip the stuff irrelevant on linux to save space, time and make it more Debian like.
