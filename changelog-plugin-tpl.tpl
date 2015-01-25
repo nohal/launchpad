@@ -1,0 +1,5 @@
+opencpn-plugin-PLUGIN (VERSION-0~UBUNTUSERIES) UBUNTU; urgency=low
+
+  * MESSAGE
+
+ -- PACKAGER  TIMESTAMP
