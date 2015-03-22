@@ -5,11 +5,11 @@
 VERSION=4.0.0
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
-SERIES=1
+SERIES=2
 Ubuntus=('vivid' 'utopic' 'trusty' 'precise' 'lucid')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
-BRANCH=opencpngithub/master
+BRANCH=opencpngithub/v4.0.x
 
 MYDIR=`pwd`
 if [ $# -lt 1 ] ; then
@@ -19,11 +19,30 @@ fi
 
 mkdir $WORKDIR
 cd ..
-git archive $BRANCH | bzip2 > $WORKDIR/opencpn_$VERSION.tar.bz2
+git archive $BRANCH | tar -x -C $WORKDIR
+
+rm -rf $WORKDIR/wxWidgets
+rm -rf $WORKDIR/buildosx
+rm -rf $WORKDIR/buildwin
+rm -rf $WORKDIR/plugins/grib_pi/src/bzip2
+rm -rf $WORKDIR/plugins/grib_pi/src/zlib-1.2.3
+rm -rf $WORKDIR/data/doc
+rm -rf $WORKDIR/data/tcdata
+rm -rf $WORKDIR/data/gshhs
+rm -rf $WORKDIR/data/wvsdata
+rm $WORKDIR/include/tinyxml.h $WORKDIR/src/tinyxml.cpp $WORKDIR/src/tinyxmlerror.cpp $WORKDIR/src/tinyxmlparser.cpp
+rm -rf $WORKDIR/include/GL/
+
+TOMOVE=`ls -d $WORKDIR/*`
+
+mkdir $WORKDIR/opencpn
+mv $TOMOVE $WORKDIR/opencpn
+
+tar -cf $WORKDIR/opencpn_$VERSION.orig.tar -C $WORKDIR/opencpn .
+xz $WORKDIR/opencpn_$VERSION.orig.tar
+
 cd launchpad
-cp $WORKDIR/opencpn_$VERSION.tar.bz2 $WORKDIR/opencpn_$VERSION.orig.tar.bz2
-cp -rf opencpn $WORKDIR
-tar jxf $WORKDIR/opencpn_$VERSION.tar.bz2 -C $WORKDIR/opencpn
+cp -rf opencpn/* $WORKDIR/opencpn
 
 read -p "Press [Enter] to publish (now it's time to apply patches manually if needed)"
 
