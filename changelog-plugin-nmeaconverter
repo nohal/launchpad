@@ -1,3 +1,28 @@
+opencpn-plugin-nmeaconverter (0.2.0-0~precise1) precise; urgency=low
+
+  * Version 0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Jun 2015 13:28:32 -0500
+opencpn-plugin-nmeaconverter (0.2.0-0~trusty1) trusty; urgency=low
+
+  * Version 0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Jun 2015 13:28:32 -0500
+opencpn-plugin-nmeaconverter (0.2.0-0~utopic1) utopic; urgency=low
+
+  * Version 0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Jun 2015 13:28:32 -0500
+opencpn-plugin-nmeaconverter (0.2.0-0~vivid1) vivid; urgency=low
+
+  * Version 0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Jun 2015 13:28:32 -0500
+opencpn-plugin-nmeaconverter (0.2.0-0~wily1) wily; urgency=low
+
+  * Version 0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Jun 2015 13:28:32 -0500
 opencpn-plugin-nmeaconverter (0.1.0-0~lucid1) lucid; urgency=low
 
   * Version 0.1

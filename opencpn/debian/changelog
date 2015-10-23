@@ -1,3 +1,103 @@
+opencpn (4.1.1022-0~precise1) precise; urgency=low
+
+  * 4.1.1022
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 22 Oct 2015 20:53:32 -0500
+opencpn (4.1.1022-0~trusty1) trusty; urgency=low
+
+  * 4.1.1022
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 22 Oct 2015 20:53:32 -0500
+opencpn (4.1.1022-0~vivid1) vivid; urgency=low
+
+  * 4.1.1022
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 22 Oct 2015 20:53:32 -0500
+opencpn (4.1.1022-0~wily1) wily; urgency=low
+
+  * 4.1.1022
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 22 Oct 2015 20:53:32 -0500
+opencpn (4.1.1022-0~xenial1) xenial; urgency=low
+
+  * 4.1.1022
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 22 Oct 2015 20:53:32 -0500
+opencpn (4.1.925-0~precise1) precise; urgency=low
+
+  * 4.1.925 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 25 Sep 2015 20:03:46 -0500
+opencpn (4.1.925-0~trusty1) trusty; urgency=low
+
+  * 4.1.925 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 25 Sep 2015 20:03:46 -0500
+opencpn (4.1.925-0~utopic1) utopic; urgency=low
+
+  * 4.1.925 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 25 Sep 2015 20:03:46 -0500
+opencpn (4.1.925-0~vivid1) vivid; urgency=low
+
+  * 4.1.925 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 25 Sep 2015 20:03:46 -0500
+opencpn (4.1.925-0~wily1) wily; urgency=low
+
+  * 4.1.925 beta
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 25 Sep 2015 20:03:46 -0500
+opencpn (4.1.603-0~precise2) precise; urgency=low
+
+  * Version 4.1.603
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 20:18:23 -0500
+opencpn (4.1.603-0~trusty2) trusty; urgency=low
+
+  * Version 4.1.603
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 20:18:23 -0500
+opencpn (4.1.603-0~utopic2) utopic; urgency=low
+
+  * Version 4.1.603
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 20:18:23 -0500
+opencpn (4.1.603-0~vivid2) vivid; urgency=low
+
+  * Version 4.1.603
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 20:18:23 -0500
+opencpn (4.1.603-0~wily2) wily; urgency=low
+
+  * Version 4.1.603
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 20:18:23 -0500
+opencpn (4.1.602-0~precise2) precise; urgency=low
+
+  * Version 4.1.602
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 16:46:32 -0500
+opencpn (4.1.602-0~trusty2) trusty; urgency=low
+
+  * Version 4.1.602
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 16:46:32 -0500
+opencpn (4.1.602-0~utopic2) utopic; urgency=low
+
+  * Version 4.1.602
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 16:46:32 -0500
+opencpn (4.1.602-0~vivid2) vivid; urgency=low
+
+  * Version 4.1.602
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 16:46:32 -0500
+opencpn (4.1.602-0~wily2) wily; urgency=low
+
+  * Version 4.1.602
+
+ -- Pavel Kalian <pavel@kalian.cz>  Tue, 02 Jun 2015 16:46:32 -0500
 opencpn (4.0.0-0~lucid1) lucid; urgency=low
 
   * OpenCPN 4.0.0

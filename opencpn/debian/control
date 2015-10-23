@@ -2,7 +2,8 @@ Source: opencpn
 Section: misc
 Priority: extra
 Maintainer: Pavel Kalian <pavel@kalian.cz>
-Build-Depends: debhelper (>= 8.0.0), cmake, cdbs, libgtk2.0-dev, gettext, gpsd, gpsd-clients, libgps-dev, wx-common, libwxgtk2.8-dev, libglu1-mesa-dev, libgtk2.0-dev, wx2.8-headers, libbz2-dev, libtinyxml-dev, libsdl1.2debian, libportaudio2, portaudio19-dev
+Build-Depends: debhelper (>= 8.0.0), cmake, cdbs, libgtk2.0-dev, gettext, gpsd, gpsd-clients, libgps-dev, wx-common, libwxgtk3.0-dev, libglu1-mesa-dev, libgtk2.0-dev, wx3.0-headers, libbz2-dev, libtinyxml-dev, libsdl1.2debian, libportaudio2, portaudio19-dev, libcurl4-openssl-dev
+#For the ARM build, perhaps add: , libdri2-dev [armhf],libgles1-mesa-dev [armhf]
 Standards-Version: 3.9.3
 Homepage: http://www.opencpn.org
 #Vcs-Git: git://git.debian.org/collab-maint/opencpn.git
@@ -10,7 +11,10 @@ Homepage: http://www.opencpn.org
 
 Package: opencpn
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, wx2.8-i18n, opencpn-tcdata, opencpn-gshhs-low
+Depends: ${shlibs:Depends}, ${misc:Depends}, wx3.0-i18n, opencpn-tcdata, opencpn-gshhs-low
+Provides: opencpn-plugin-wmm, opencpn-plugin-chartdldr
+Conflicts: opencpn-plugin-wmm, opencpn-plugin-chartdldr
+Replaces: opencpn-plugin-wmm, opencpn-plugin-chartdldr
 Recommends: xcalib,xdg-utils,opencpn-doc,opencpn-gshhs-crude,opencpn-gshhs-intermediate,opencpn-gshhs-high,opencpn-gshhs-full
 Description: Concise chartplotter and navigation software
  OpenCPN is a free software (GPLv2) project to create a concise chartplotter and navigation software for use as an underway or planning tool.  OpenCPN is developed by a team of active sailors using real world conditions for program testing and refinement.

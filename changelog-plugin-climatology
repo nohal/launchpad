@@ -1,3 +1,53 @@
+opencpn-plugin-climatology (1.1.1-0~precise1) precise; urgency=low
+
+  * v1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Jun 2015 16:06:53 -0500
+opencpn-plugin-climatology (1.1.1-0~trusty1) trusty; urgency=low
+
+  * v1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Jun 2015 16:06:53 -0500
+opencpn-plugin-climatology (1.1.1-0~utopic1) utopic; urgency=low
+
+  * v1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Jun 2015 16:06:53 -0500
+opencpn-plugin-climatology (1.1.1-0~vivid1) vivid; urgency=low
+
+  * v1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Jun 2015 16:06:53 -0500
+opencpn-plugin-climatology (1.1.1-0~wily1) wily; urgency=low
+
+  * v1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 07 Jun 2015 16:06:53 -0500
+opencpn-plugin-climatology (1.1.0-0~precise1) precise; urgency=low
+
+  * v1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:59:19 -0500
+opencpn-plugin-climatology (1.1.0-0~trusty1) trusty; urgency=low
+
+  * v1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:59:19 -0500
+opencpn-plugin-climatology (1.1.0-0~utopic1) utopic; urgency=low
+
+  * v1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:59:19 -0500
+opencpn-plugin-climatology (1.1.0-0~vivid1) vivid; urgency=low
+
+  * v1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:59:19 -0500
+opencpn-plugin-climatology (1.1.0-0~wily1) wily; urgency=low
+
+  * v1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:59:19 -0500
 opencpn-plugin-climatology (1.0.0-0~lucid2) lucid; urgency=low
 
   * v1.0

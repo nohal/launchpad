@@ -1,3 +1,53 @@
+opencpn-plugin-chartdldr (1.1.1-0~precise1) precise; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 26 Jul 2015 13:12:35 -0500
+opencpn-plugin-chartdldr (1.1.1-0~trusty1) trusty; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 26 Jul 2015 13:12:35 -0500
+opencpn-plugin-chartdldr (1.1.1-0~utopic1) utopic; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 26 Jul 2015 13:12:35 -0500
+opencpn-plugin-chartdldr (1.1.1-0~vivid1) vivid; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 26 Jul 2015 13:12:35 -0500
+opencpn-plugin-chartdldr (1.1.1-0~wily1) wily; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 26 Jul 2015 13:12:35 -0500
+opencpn-plugin-chartdldr (1.1.0-0~precise1) precise; urgency=low
+
+  * Version 1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 12:53:28 -0500
+opencpn-plugin-chartdldr (1.1.0-0~trusty1) trusty; urgency=low
+
+  * Version 1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 12:53:28 -0500
+opencpn-plugin-chartdldr (1.1.0-0~utopic1) utopic; urgency=low
+
+  * Version 1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 12:53:28 -0500
+opencpn-plugin-chartdldr (1.1.0-0~vivid1) vivid; urgency=low
+
+  * Version 1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 12:53:28 -0500
+opencpn-plugin-chartdldr (1.1.0-0~wily1) wily; urgency=low
+
+  * Version 1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 12:53:28 -0500
 opencpn-plugin-chartdldr (1.0.0-0~lucid1) lucid; urgency=low
 
   * Version 1.0

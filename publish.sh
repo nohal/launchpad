@@ -2,14 +2,14 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=4.0.0
+VERSION=4.1.1022
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
-SERIES=2
-Ubuntus=('wily' 'vivid' 'utopic' 'trusty' 'precise')
+SERIES=1
+Ubuntus=('xenial' 'wily' 'vivid' 'trusty' 'precise')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
-BRANCH=opencpngithub/v4.0.x
+BRANCH=opencpngithub/master
 
 MYDIR=`pwd`
 if [ $# -lt 1 ] ; then
@@ -24,10 +24,12 @@ git archive $BRANCH | tar -x -C $WORKDIR
 rm -rf $WORKDIR/wxWidgets
 rm -rf $WORKDIR/buildosx
 rm -rf $WORKDIR/buildwin
+rm -rf $WORKDIR/buildandroid
 rm -rf $WORKDIR/plugins/grib_pi/src/bzip2
 rm -rf $WORKDIR/plugins/grib_pi/src/zlib-1.2.3
-rm -rf $WORKDIR/data/doc
 rm -rf $WORKDIR/data/tcdata
+rm -rf $WORKDIR/data/doc/images
+rm -rf $WORKDIR/data/doc/help_en_US.html
 rm -rf $WORKDIR/data/gshhs
 rm -rf $WORKDIR/data/wvsdata
 rm $WORKDIR/include/tinyxml.h $WORKDIR/src/tinyxml.cpp $WORKDIR/src/tinyxmlerror.cpp $WORKDIR/src/tinyxmlparser.cpp

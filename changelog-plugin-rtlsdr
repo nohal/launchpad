@@ -1,3 +1,28 @@
+opencpn-plugin-rtlsdr (0.13.0-0~precise1) precise; urgency=low
+
+  * v0.13
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:37:30 -0500
+opencpn-plugin-rtlsdr (0.13.0-0~trusty1) trusty; urgency=low
+
+  * v0.13
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:37:30 -0500
+opencpn-plugin-rtlsdr (0.13.0-0~utopic1) utopic; urgency=low
+
+  * v0.13
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:37:30 -0500
+opencpn-plugin-rtlsdr (0.13.0-0~vivid1) vivid; urgency=low
+
+  * v0.13
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:37:30 -0500
+opencpn-plugin-rtlsdr (0.13.0-0~wily1) wily; urgency=low
+
+  * v0.13
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 04 Jun 2015 13:37:30 -0500
 opencpn-plugin-rtlsdr (0.12.0-0~lucid1) lucid; urgency=low
 
   * v0.12.0

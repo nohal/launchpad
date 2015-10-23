@@ -1,3 +1,28 @@
+opencpn-plugin-objsearch (0.6.0-0~precise1) precise; urgency=low
+
+  * Version 0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Jun 2015 19:36:03 -0500
+opencpn-plugin-objsearch (0.6.0-0~trusty1) trusty; urgency=low
+
+  * Version 0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Jun 2015 19:36:03 -0500
+opencpn-plugin-objsearch (0.6.0-0~utopic1) utopic; urgency=low
+
+  * Version 0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Jun 2015 19:36:03 -0500
+opencpn-plugin-objsearch (0.6.0-0~vivid1) vivid; urgency=low
+
+  * Version 0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Jun 2015 19:36:03 -0500
+opencpn-plugin-objsearch (0.6.0-0~wily1) wily; urgency=low
+
+  * Version 0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Jun 2015 19:36:03 -0500
 opencpn-plugin-objsearch (0.5.1-0~lucid2) lucid; urgency=low
 
   * v0.5.1
