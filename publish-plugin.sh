@@ -5,7 +5,7 @@
 PACKAGER='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
-Ubuntus=('wily' 'vivid' 'utopic' 'trusty' 'precise')
+Ubuntus=('xenial' 'wily' 'vivid' 'trusty' 'precise')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
 
