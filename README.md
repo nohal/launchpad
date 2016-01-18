@@ -1,6 +1,8 @@
 Scripts and configuration to produce Launchpad PPA Packages for OpenCPN
 =======================================================================
 
+```sudo apt-get install devscripts cdbs```
+
 Configuration
 -------------
 You must have the keys registered on Launchpad
