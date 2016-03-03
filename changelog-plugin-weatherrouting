@@ -1,3 +1,28 @@
+opencpn-plugin-weatherrouting (1.82-0~precise1) precise; urgency=low
+
+  * v1.82
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:23:05 -0600
+opencpn-plugin-weatherrouting (1.82-0~trusty1) trusty; urgency=low
+
+  * v1.82
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:23:05 -0600
+opencpn-plugin-weatherrouting (1.82-0~vivid1) vivid; urgency=low
+
+  * v1.82
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:23:05 -0600
+opencpn-plugin-weatherrouting (1.82-0~wily1) wily; urgency=low
+
+  * v1.82
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:23:05 -0600
+opencpn-plugin-weatherrouting (1.82-0~xenial1) xenial; urgency=low
+
+  * v1.82
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:23:05 -0600
 opencpn-plugin-weatherrouting (1.6.1-0~precise1) precise; urgency=low
 
   * v1.6.1

@@ -1,3 +1,53 @@
+opencpn-plugin-aisradar (1.0.2-0~precise1) precise; urgency=low
+
+  * Version 1.0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 11:01:40 -0600
+opencpn-plugin-aisradar (1.0.2-0~trusty1) trusty; urgency=low
+
+  * Version 1.0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 11:01:40 -0600
+opencpn-plugin-aisradar (1.0.2-0~vivid1) vivid; urgency=low
+
+  * Version 1.0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 11:01:40 -0600
+opencpn-plugin-aisradar (1.0.2-0~wily1) wily; urgency=low
+
+  * Version 1.0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 11:01:40 -0600
+opencpn-plugin-aisradar (1.0.2-0~xenial1) xenial; urgency=low
+
+  * Version 1.0.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 11:01:40 -0600
+opencpn-plugin-aisradar (1.0.1-0~precise1) precise; urgency=low
+
+  * Version 1.0.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:57:19 -0600
+opencpn-plugin-aisradar (1.0.1-0~trusty1) trusty; urgency=low
+
+  * Version 1.0.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:57:19 -0600
+opencpn-plugin-aisradar (1.0.1-0~vivid1) vivid; urgency=low
+
+  * Version 1.0.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:57:19 -0600
+opencpn-plugin-aisradar (1.0.1-0~wily1) wily; urgency=low
+
+  * Version 1.0.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:57:19 -0600
+opencpn-plugin-aisradar (1.0.1-0~xenial1) xenial; urgency=low
+
+  * Version 1.0.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:57:19 -0600
 opencpn-plugin-aisradar (1.0.1-0~precise1) precise; urgency=low
 
   * Version 1.0

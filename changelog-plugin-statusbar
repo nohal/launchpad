@@ -1,3 +1,28 @@
+opencpn-plugin-statusbar (0.6.0-0~precise1) precise; urgency=low
+
+  * v0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 14:46:22 -0600
+opencpn-plugin-statusbar (0.6.0-0~trusty1) trusty; urgency=low
+
+  * v0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 14:46:22 -0600
+opencpn-plugin-statusbar (0.6.0-0~vivid1) vivid; urgency=low
+
+  * v0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 14:46:22 -0600
+opencpn-plugin-statusbar (0.6.0-0~wily1) wily; urgency=low
+
+  * v0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 14:46:22 -0600
+opencpn-plugin-statusbar (0.6.0-0~xenial1) xenial; urgency=low
+
+  * v0.6
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 14:46:22 -0600
 opencpn-plugin-statusbar (0.5.0-0~precise1) precise; urgency=low
 
   * v0.5

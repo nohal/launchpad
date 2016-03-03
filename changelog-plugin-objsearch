@@ -1,3 +1,53 @@
+opencpn-plugin-objsearch (0.7.1-0~precise1) precise; urgency=low
+
+  * Version 0.7 rerelease with correct SVGs
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 17:02:09 -0600
+opencpn-plugin-objsearch (0.7.1-0~trusty1) trusty; urgency=low
+
+  * Version 0.7 rerelease with correct SVGs
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 17:02:09 -0600
+opencpn-plugin-objsearch (0.7.1-0~vivid1) vivid; urgency=low
+
+  * Version 0.7 rerelease with correct SVGs
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 17:02:09 -0600
+opencpn-plugin-objsearch (0.7.1-0~wily1) wily; urgency=low
+
+  * Version 0.7 rerelease with correct SVGs
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 17:02:09 -0600
+opencpn-plugin-objsearch (0.7.1-0~xenial1) xenial; urgency=low
+
+  * Version 0.7 rerelease with correct SVGs
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 17:02:09 -0600
+opencpn-plugin-objsearch (0.7.0-0~precise1) precise; urgency=low
+
+  * Version 0.7
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:25:38 -0600
+opencpn-plugin-objsearch (0.7.0-0~trusty1) trusty; urgency=low
+
+  * Version 0.7
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:25:38 -0600
+opencpn-plugin-objsearch (0.7.0-0~vivid1) vivid; urgency=low
+
+  * Version 0.7
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:25:38 -0600
+opencpn-plugin-objsearch (0.7.0-0~wily1) wily; urgency=low
+
+  * Version 0.7
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:25:38 -0600
+opencpn-plugin-objsearch (0.7.0-0~xenial1) xenial; urgency=low
+
+  * Version 0.7
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:25:38 -0600
 opencpn-plugin-objsearch (0.6.0-0~precise1) precise; urgency=low
 
   * Version 0.6

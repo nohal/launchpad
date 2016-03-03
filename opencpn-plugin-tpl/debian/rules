@@ -9,6 +9,9 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
+#Don't touch the SVG files otherwise cairo is not able to render them...
+DEB_DH_SCOUR_ARGS += -Xsvg
+
 include /usr/share/cdbs/1/rules/debhelper.mk
 include /usr/share/cdbs/1/class/cmake.mk
 

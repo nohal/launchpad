@@ -1,3 +1,28 @@
+opencpn-plugin-launcher (1.1.1-0~precise1) precise; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:21:39 -0600
+opencpn-plugin-launcher (1.1.1-0~trusty1) trusty; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:21:39 -0600
+opencpn-plugin-launcher (1.1.1-0~vivid1) vivid; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:21:39 -0600
+opencpn-plugin-launcher (1.1.1-0~wily1) wily; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:21:39 -0600
+opencpn-plugin-launcher (1.1.1-0~xenial1) xenial; urgency=low
+
+  * Version 1.1.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:21:39 -0600
 opencpn-plugin-launcher (1.1.0-0~precise1) precise; urgency=low
 
   * Version 1.1

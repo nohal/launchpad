@@ -1,3 +1,53 @@
+opencpn (4.2.0-0~precise1) precise; urgency=low
+
+  * v4.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Feb 2016 17:36:06 -0600
+opencpn (4.2.0-0~trusty1) trusty; urgency=low
+
+  * v4.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Feb 2016 17:36:06 -0600
+opencpn (4.2.0-0~vivid1) vivid; urgency=low
+
+  * v4.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Feb 2016 17:36:06 -0600
+opencpn (4.2.0-0~wily1) wily; urgency=low
+
+  * v4.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Feb 2016 17:36:06 -0600
+opencpn (4.2.0-0~xenial1) xenial; urgency=low
+
+  * v4.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 06 Feb 2016 17:36:06 -0600
+opencpn (4.1.1329.1-0~precise1) precise; urgency=low
+
+  * v4.1.1329
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Feb 2016 06:38:09 -0600
+opencpn (4.1.1329.1-0~trusty1) trusty; urgency=low
+
+  * v4.1.1329
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Feb 2016 06:38:09 -0600
+opencpn (4.1.1329.1-0~vivid1) vivid; urgency=low
+
+  * v4.1.1329
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Feb 2016 06:38:09 -0600
+opencpn (4.1.1329.1-0~wily1) wily; urgency=low
+
+  * v4.1.1329
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Feb 2016 06:38:09 -0600
+opencpn (4.1.1329.1-0~xenial1) xenial; urgency=low
+
+  * v4.1.1329
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 03 Feb 2016 06:38:09 -0600
 opencpn (4.1.1317-0~precise1) precise; urgency=low
 
   * 4.1.1317

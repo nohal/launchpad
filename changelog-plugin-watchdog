@@ -1,3 +1,53 @@
+opencpn-plugin-watchdog (1.9042.0-0~precise1) precise; urgency=low
+
+  * v1.9042
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 09:32:50 -0600
+opencpn-plugin-watchdog (1.9042.0-0~trusty1) trusty; urgency=low
+
+  * v1.9042
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 09:32:50 -0600
+opencpn-plugin-watchdog (1.9042.0-0~vivid1) vivid; urgency=low
+
+  * v1.9042
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 09:32:50 -0600
+opencpn-plugin-watchdog (1.9042.0-0~wily1) wily; urgency=low
+
+  * v1.9042
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 09:32:50 -0600
+opencpn-plugin-watchdog (1.9042.0-0~xenial1) xenial; urgency=low
+
+  * v1.9042
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 09:32:50 -0600
+opencpn-plugin-watchdog (1.9037.0-0~precise1) precise; urgency=low
+
+  * v1.9037
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:47:11 -0600
+opencpn-plugin-watchdog (1.9037.0-0~trusty1) trusty; urgency=low
+
+  * v1.9037
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:47:11 -0600
+opencpn-plugin-watchdog (1.9037.0-0~vivid1) vivid; urgency=low
+
+  * v1.9037
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:47:11 -0600
+opencpn-plugin-watchdog (1.9037.0-0~wily1) wily; urgency=low
+
+  * v1.9037
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:47:11 -0600
+opencpn-plugin-watchdog (1.9037.0-0~xenial1) xenial; urgency=low
+
+  * v1.9037
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 08:47:11 -0600
 opencpn-plugin-watchdog (1.4.0-0~precise1) precise; urgency=low
 
   * v1.4

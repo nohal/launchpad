@@ -2,11 +2,11 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=1.0.0
+VERSION=1.0.1
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
-Ubuntus=('wily' 'vivid' 'utopic' 'trusty' 'precise')
+Ubuntus=('xenial' 'wily' 'vivid' 'trusty' 'precise')
 LPUSER='nohal'
 PPA='opencpn'
 WORKDIR=/tmp/launchpad

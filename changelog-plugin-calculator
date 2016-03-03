@@ -1,3 +1,28 @@
+opencpn-plugin-calculator (1.8.1-0~precise1) precise; urgency=low
+
+  * Version 1.8.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 13:12:20 -0600
+opencpn-plugin-calculator (1.8.1-0~trusty1) trusty; urgency=low
+
+  * Version 1.8.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 13:12:20 -0600
+opencpn-plugin-calculator (1.8.1-0~vivid1) vivid; urgency=low
+
+  * Version 1.8.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 13:12:20 -0600
+opencpn-plugin-calculator (1.8.1-0~wily1) wily; urgency=low
+
+  * Version 1.8.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 13:12:20 -0600
+opencpn-plugin-calculator (1.8.1-0~xenial1) xenial; urgency=low
+
+  * Version 1.8.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 13:12:20 -0600
 opencpn-plugin-calculator (1.8.0-0~precise1) precise; urgency=low
 
   * Version 1.8

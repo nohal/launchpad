@@ -1,3 +1,53 @@
+opencpn-plugin-celestial (2.0.0-0~precise1) precise; urgency=low
+
+  * v2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 08:58:04 -0600
+opencpn-plugin-celestial (2.0.0-0~trusty1) trusty; urgency=low
+
+  * v2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 08:58:04 -0600
+opencpn-plugin-celestial (2.0.0-0~vivid1) vivid; urgency=low
+
+  * v2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 08:58:04 -0600
+opencpn-plugin-celestial (2.0.0-0~wily1) wily; urgency=low
+
+  * v2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 08:58:04 -0600
+opencpn-plugin-celestial (2.0.0-0~xenial1) xenial; urgency=low
+
+  * v2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Mon, 29 Feb 2016 08:58:04 -0600
+opencpn-plugin-celestial (1.11.0-0~precise1) precise; urgency=low
+
+  * v1.11
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 12:16:47 -0600
+opencpn-plugin-celestial (1.11.0-0~trusty1) trusty; urgency=low
+
+  * v1.11
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 12:16:47 -0600
+opencpn-plugin-celestial (1.11.0-0~vivid1) vivid; urgency=low
+
+  * v1.11
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 12:16:47 -0600
+opencpn-plugin-celestial (1.11.0-0~wily1) wily; urgency=low
+
+  * v1.11
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 12:16:47 -0600
+opencpn-plugin-celestial (1.11.0-0~xenial1) xenial; urgency=low
+
+  * v1.11
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sat, 27 Feb 2016 12:16:47 -0600
 opencpn-plugin-celestial (1.10.0-0~precise1) precise; urgency=low
 
   * v1.10

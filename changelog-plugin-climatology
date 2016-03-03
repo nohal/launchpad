@@ -1,3 +1,28 @@
+opencpn-plugin-climatology (1.2.0-0~precise1) precise; urgency=low
+
+  * v1.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 15:52:13 -0600
+opencpn-plugin-climatology (1.2.0-0~trusty1) trusty; urgency=low
+
+  * v1.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 15:52:13 -0600
+opencpn-plugin-climatology (1.2.0-0~vivid1) vivid; urgency=low
+
+  * v1.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 15:52:13 -0600
+opencpn-plugin-climatology (1.2.0-0~wily1) wily; urgency=low
+
+  * v1.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 15:52:13 -0600
+opencpn-plugin-climatology (1.2.0-0~xenial1) xenial; urgency=low
+
+  * v1.2.0
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 25 Feb 2016 15:52:13 -0600
 opencpn-plugin-climatology (1.1.1-0~precise1) precise; urgency=low
 
   * v1.1.1

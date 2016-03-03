@@ -1,3 +1,78 @@
+opencpn-plugin-polar (1.1007.0-0~precise1) precise; urgency=low
+
+  * Version 1.1007
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 28 Feb 2016 06:35:01 -0600
+opencpn-plugin-polar (1.1007.0-0~trusty1) trusty; urgency=low
+
+  * Version 1.1007
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 28 Feb 2016 06:35:01 -0600
+opencpn-plugin-polar (1.1007.0-0~vivid1) vivid; urgency=low
+
+  * Version 1.1007
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 28 Feb 2016 06:35:01 -0600
+opencpn-plugin-polar (1.1007.0-0~wily1) wily; urgency=low
+
+  * Version 1.1007
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 28 Feb 2016 06:35:01 -0600
+opencpn-plugin-polar (1.1007.0-0~xenial1) xenial; urgency=low
+
+  * Version 1.1007
+
+ -- Pavel Kalian <pavel@kalian.cz>  Sun, 28 Feb 2016 06:35:01 -0600
+opencpn-plugin-polar (1.1004.1-0~precise1) precise; urgency=low
+
+  * Version 1.1004.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:18:39 -0600
+opencpn-plugin-polar (1.1004.1-0~trusty1) trusty; urgency=low
+
+  * Version 1.1004.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:18:39 -0600
+opencpn-plugin-polar (1.1004.1-0~vivid1) vivid; urgency=low
+
+  * Version 1.1004.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:18:39 -0600
+opencpn-plugin-polar (1.1004.1-0~wily1) wily; urgency=low
+
+  * Version 1.1004.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:18:39 -0600
+opencpn-plugin-polar (1.1004.1-0~xenial1) xenial; urgency=low
+
+  * Version 1.1004.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:18:39 -0600
+opencpn-plugin-polar (1.1004.0-0~precise1) precise; urgency=low
+
+  * Version 1.1004
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:15:54 -0600
+opencpn-plugin-polar (1.1004.0-0~trusty1) trusty; urgency=low
+
+  * Version 1.1004
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:15:54 -0600
+opencpn-plugin-polar (1.1004.0-0~vivid1) vivid; urgency=low
+
+  * Version 1.1004
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:15:54 -0600
+opencpn-plugin-polar (1.1004.0-0~wily1) wily; urgency=low
+
+  * Version 1.1004
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:15:54 -0600
+opencpn-plugin-polar (1.1004.0-0~xenial1) xenial; urgency=low
+
+  * Version 1.1004
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 09:15:54 -0600
 opencpn-plugin-polar (1.1004.0-0~precise1) precise; urgency=low
 
   * Version 1.1004

@@ -1,3 +1,28 @@
+opencpn-plugin-ocpndebugger (1.2.0-0~precise1) precise; urgency=low
+
+  * Version 1.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:18:01 -0600
+opencpn-plugin-ocpndebugger (1.2.0-0~trusty1) trusty; urgency=low
+
+  * Version 1.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:18:01 -0600
+opencpn-plugin-ocpndebugger (1.2.0-0~vivid1) vivid; urgency=low
+
+  * Version 1.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:18:01 -0600
+opencpn-plugin-ocpndebugger (1.2.0-0~wily1) wily; urgency=low
+
+  * Version 1.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:18:01 -0600
+opencpn-plugin-ocpndebugger (1.2.0-0~xenial1) xenial; urgency=low
+
+  * Version 1.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 24 Feb 2016 16:18:01 -0600
 opencpn-plugin-ocpndebugger (1.1.0-0~precise1) precise; urgency=low
 
   * Version 1.1

@@ -1,3 +1,28 @@
+opencpn-plugin-vdr (0.4.1-0~precise1) precise; urgency=low
+
+  * Version 0.4.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:27:31 -0600
+opencpn-plugin-vdr (0.4.1-0~trusty1) trusty; urgency=low
+
+  * Version 0.4.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:27:31 -0600
+opencpn-plugin-vdr (0.4.1-0~vivid1) vivid; urgency=low
+
+  * Version 0.4.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:27:31 -0600
+opencpn-plugin-vdr (0.4.1-0~wily1) wily; urgency=low
+
+  * Version 0.4.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:27:31 -0600
+opencpn-plugin-vdr (0.4.1-0~xenial1) xenial; urgency=low
+
+  * Version 0.4.1
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 26 Feb 2016 10:27:31 -0600
 opencpn-plugin-vdr (0.4.0-0~precise1) precise; urgency=low
 
   * Version 0.4
