@@ -1,3 +1,28 @@
+opencpn-plugin-s63 (1.4.2-0~precise1) precise; urgency=low
+
+  * Version 1.4.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 04 Mar 2016 07:18:49 -0600
+opencpn-plugin-s63 (1.4.2-0~trusty1) trusty; urgency=low
+
+  * Version 1.4.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 04 Mar 2016 07:18:49 -0600
+opencpn-plugin-s63 (1.4.2-0~vivid1) vivid; urgency=low
+
+  * Version 1.4.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 04 Mar 2016 07:18:49 -0600
+opencpn-plugin-s63 (1.4.2-0~wily1) wily; urgency=low
+
+  * Version 1.4.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 04 Mar 2016 07:18:49 -0600
+opencpn-plugin-s63 (1.4.2-0~xenial1) xenial; urgency=low
+
+  * Version 1.4.2
+
+ -- Pavel Kalian <pavel@kalian.cz>  Fri, 04 Mar 2016 07:18:49 -0600
 opencpn-plugin-s63 (1.4.1-0~precise1) precise; urgency=low
 
   * Version 1.4.1
