@@ -2,11 +2,11 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=4.2.0
+VERSION=4.2.1724
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
-Ubuntus=('xenial' 'wily' 'vivid' 'trusty' 'precise')
+Ubuntus=('bionic' 'artful' 'zesty' 'xenial' 'vivid' 'trusty' 'precise')
 LPUSER='nohal'
 WORKDIR=/tmp/launchpad
 BRANCH=opencpngithub/master
@@ -25,6 +25,12 @@ rm -rf $WORKDIR/wxWidgets
 rm -rf $WORKDIR/buildosx
 rm -rf $WORKDIR/buildwin
 rm -rf $WORKDIR/buildandroid
+rm -rf $WORKDIR/*/tinyxml*
+#rm -rf $WORKDIR/plugins/chartdldr_pi/src/unrar
+rm -rf $WORKDIR/plugins/chartdldr_pi/src/tinyxml
+#rm -rf $WORKDIR/plugins/wmm_pi/src/wmm_pi/src/json*
+rm -rf $WORKDIR/plugins/*/buildosx
+rm -rf $WORKDIR/plugins/*/buildwin
 rm -rf $WORKDIR/plugins/grib_pi/src/bzip2
 rm -rf $WORKDIR/plugins/grib_pi/src/zlib-1.2.3
 rm -rf $WORKDIR/data/tcdata
@@ -32,7 +38,6 @@ rm -rf $WORKDIR/data/doc/images
 rm -rf $WORKDIR/data/doc/help_en_US.html
 rm -rf $WORKDIR/data/gshhs
 rm -rf $WORKDIR/data/wvsdata
-rm $WORKDIR/include/tinyxml.h $WORKDIR/src/tinyxml.cpp $WORKDIR/src/tinyxmlerror.cpp $WORKDIR/src/tinyxmlparser.cpp
 rm -rf $WORKDIR/include/GL/
 
 TOMOVE=`ls -d $WORKDIR/*`
