@@ -1,3 +1,33 @@
+opencpn-plugin-iacfleet (0.9.0-0~precise1) precise; urgency=low
+
+  * Version 0.9
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 21 Sep 2016 16:14:51 -0500
+opencpn-plugin-iacfleet (0.9.0-0~trusty1) trusty; urgency=low
+
+  * Version 0.9
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 21 Sep 2016 16:14:51 -0500
+opencpn-plugin-iacfleet (0.9.0-0~vivid1) vivid; urgency=low
+
+  * Version 0.9
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 21 Sep 2016 16:14:51 -0500
+opencpn-plugin-iacfleet (0.9.0-0~wily1) wily; urgency=low
+
+  * Version 0.9
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 21 Sep 2016 16:14:51 -0500
+opencpn-plugin-iacfleet (0.9.0-0~xenial1) xenial; urgency=low
+
+  * Version 0.9
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 21 Sep 2016 16:14:51 -0500
+opencpn-plugin-iacfleet (0.9.0-0~yakkety1) yakkety; urgency=low
+
+  * Version 0.9
+
+ -- Pavel Kalian <pavel@kalian.cz>  Wed, 21 Sep 2016 16:14:51 -0500
 opencpn-plugin-iacfleet (0.8.0-0~precise1) precise; urgency=low
 
   * Version 0.8
