@@ -2,11 +2,11 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=4.1.1329.1
+VERSION=4.8.10129
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
-Ubuntus=('precise' 'trusty' 'utopic' 'vivid' 'wily' 'xenial' 'yakkety')
+Ubuntus=('bionic' 'artful' 'zesty' 'xenial' 'vivid' 'trusty' 'precise')
 LPUSER='nohal'
 PPA='opencpn'
 WORKDIR=/tmp/launchpad
@@ -17,8 +17,13 @@ if [ $# -lt 1 ] ; then
  exit 0
 fi
 
+mkdir -p ../data/opencpn
+ln -s ../doc ../data/opencpn/doc
+tar cafh opencpn-doc_${VERSION}.tar.xz -C ../data opencpn
+rm -rf ../data/opencpn
+
 mkdir $WORKDIR
-cp opencpn-doc_$VERSION.tar.xz $WORKDIR/opencpn-doc_$VERSION.orig.tar.xz
+cp opencpn-doc_${VERSION}.tar.xz $WORKDIR/opencpn-doc_${VERSION}.orig.tar.xz
 cp -rf opencpn-doc $WORKDIR
 tar Jxvf opencpn-doc_$VERSION.tar.xz -C $WORKDIR/opencpn-doc
 mv $WORKDIR/opencpn-doc/opencpn/doc $WORKDIR/opencpn-doc
