@@ -2,7 +2,7 @@
 # Launchpad publishing script
 # Copyright 2012 - Pavel Kalian (pavel@kalian.cz)
 # Licensed under the terms of GPLv2+
-VERSION=4.8.10129.1
+VERSION=4.8.10129.2
 AUTHOR='Pavel Kalian <pavel@kalian.cz>'
 DATE=`date -R`
 SERIES=1
@@ -19,7 +19,7 @@ fi
 
 mkdir -p ../data/opencpn
 ln -s ../doc ../data/opencpn/doc
-tar cafh opencpn-doc_${VERSION}.tar.xz -C ../data opencpn
+tar cafh opencpn-doc_${VERSION}.tar.xz -C ../data --exclude opencpn/doc/help_web.html opencpn
 rm -rf ../data/opencpn
 
 mkdir $WORKDIR
@@ -28,7 +28,6 @@ cp -rf opencpn-doc $WORKDIR
 tar Jxvf opencpn-doc_$VERSION.tar.xz -C $WORKDIR/opencpn-doc
 mv $WORKDIR/opencpn-doc/opencpn/doc $WORKDIR/opencpn-doc
 rm -rf $WORKDIR/opencpn-doc/opencpn
-rm -rf $WORKDIR/opencpn-doc/doc/help_web.html
 
 read -p "Press [Enter] to publish (now it's time to apply patches manually if needed)"
 
