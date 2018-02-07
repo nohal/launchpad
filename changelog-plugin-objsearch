@@ -1,3 +1,28 @@
+opencpn-plugin-objsearch (0.8.0-0~precise1) precise; urgency=low
+
+  * Version 0.8
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 01 Feb 2018 15:21:04 -0600
+opencpn-plugin-objsearch (0.8.0-0~trusty1) trusty; urgency=low
+
+  * Version 0.8
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 01 Feb 2018 15:21:04 -0600
+opencpn-plugin-objsearch (0.8.0-0~xenial1) xenial; urgency=low
+
+  * Version 0.8
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 01 Feb 2018 15:21:04 -0600
+opencpn-plugin-objsearch (0.8.0-0~artful1) artful; urgency=low
+
+  * Version 0.8
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 01 Feb 2018 15:21:04 -0600
+opencpn-plugin-objsearch (0.8.0-0~bionic1) bionic; urgency=low
+
+  * Version 0.8
+
+ -- Pavel Kalian <pavel@kalian.cz>  Thu, 01 Feb 2018 15:21:04 -0600
 opencpn-plugin-objsearch (0.7.1-0~precise1) precise; urgency=low
 
   * Version 0.7 rerelease with correct SVGs
