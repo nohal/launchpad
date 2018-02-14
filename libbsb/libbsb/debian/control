@@ -1,0 +1,13 @@
+Source: libbsb
+Section: misc
+Priority: extra
+Maintainer: Pavel Kalian <pavel@kalian.cz>
+Build-Depends: debhelper (>= 8.0.0), libtiff-dev, libpng-dev, cdbs
+Standards-Version: 3.9.3
+Homepage: http://libbsb.sourceforge.net
+
+Package: libbsb
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Tool to create and convert BSB/KAP charts.
+ Typically used for nautical charts, BSB charts use the .KAP or .CAP extension and store cartographic information in addition to a run-length encoded raster image.

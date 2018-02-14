@@ -49,4 +49,4 @@ do
 done
 
 cp $WORKDIR/imgkap/debian/changelog imgkap/debian
-#rm -rf $WORKDIR
+rm -rf $WORKDIR
